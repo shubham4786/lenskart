@@ -10,7 +10,7 @@ import Order from "./Order";
 
 const NavBar = () => {
   return (
-    <div className="flex items-center justify-between lg:px-10">
+    <div className="flex items-center justify-between lg:px-6 text-[#000042]">
       <div className="flex items-center">
         <Link href="/">
           <Image src="/main_logo.svg" width={180} height={60} alt="Logo" />

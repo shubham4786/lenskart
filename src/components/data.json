@@ -1,0 +1,2416 @@
+{
+    "result": {
+        "category_name": "Vincent Chase Eyeglasses",
+        "product_list": [
+            {
+                "id": "201615",
+                "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/transparent-full-rim-rectangle-vincent-chase-blend-edit-vc-e14972-c2-eyeglasses_g_3539_10_14_22.jpg",
+                "image_url_suffix": "/v/i/transparent-full-rim-rectangle-vincent-chase-blend-edit-vc-e14972-c2-eyeglasses_g_3539_10_14_22.jpg",
+                "imageUrls": [],
+                "product_url": "https://www.lenskart.com/vincent-chase-vc-e14972-c2-eyeglasses.html",
+                "color": "#f1f1f1",
+                "occasion": "Everyday",
+                "size": "Medium",
+                "width": "136 mm",
+                "brand_name": "Vincent Chase",
+                "brand_name_en": "Vincent Chase",
+                "brand_logo": "https://static.lenskart.com/media/wysiwyg/blanco/images/VC-H.jpg",
+                "model_name": "VC E14972",
+                "prices": [
+                    {
+                        "name": "Market Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    },
+                    {
+                        "name": "Lenskart Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    }
+                ],
+                "is_tbyb": false,
+                "tags": "Blend Edit",
+                "color_options": [],
+                "totalColorAvailable": 0,
+                "is_ditto": true,
+                "sku": "eye:vincent-chase-vc-e14972-c2-eyeglasses",
+                "hover_image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/transparent-full-rim-rectangle-vincent-chase-blend-edit-vc-e14972-c2-eyeglasses_g_3539_10_14_22.jpg",
+                "classification": "eyeframe",
+                "specifications": [],
+                "wishlistCount": 0,
+                "purchaseCount": 21127,
+                "avgRating": 4.9,
+                "totalNoOfRatings": "17",
+                "hashtagList": [
+                    {
+                        "name": "Medium",
+                        "id": 11341,
+                        "property": "frame_size_id"
+                    },
+                    {
+                        "name": "Rectangle",
+                        "id": 11345,
+                        "property": "frame_shape_id"
+                    },
+                    {
+                        "name": "Vincent Chase",
+                        "id": 10733,
+                        "property": "brandname_id"
+                    },
+                    {
+                        "name": "Full Rim",
+                        "id": 11370,
+                        "property": "frametype_id"
+                    }
+                ],
+                "offerName": "BUY1500",
+                "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
+                "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
+                "arModelAndroidUrl": "",
+                "arModelIOSUrl": "",
+                "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/201615/orignal/sku_201615.glb",
+                "qty": 2519,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/201615_bubble.png",
+                "subCollection": "Blend Edit",
+                "subCollectionId": 25041,
+                "relatedItems": [],
+                "isCygnusEnabled": true,
+                "isCashbackApplicable": false,
+                "searchProductName": "Transparent Full Rim Rectangle Eyeglasses",
+                "prescriptionType": [],
+                "arProductImageUrl": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/transparent-full-rim-rectangle-vincent-chase-blend-edit-vc-e14972-c2-eyeglasses_g_3539_10_14_22.jpg",
+                "showCartCta": false,
+                "sizeOptions": []
+            },
+            {
+                "id": "201272",
+                "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/grey-transparent-gunmetal-grey-full-rim-round-lenskart-air-signia-la-e14958-c2-eyeglasses_g_3127_06_oct22.jpg",
+                "image_url_suffix": "/l/i/grey-transparent-gunmetal-grey-full-rim-round-lenskart-air-signia-la-e14958-c2-eyeglasses_g_3127_06_oct22.jpg",
+                "imageUrls": [],
+                "product_url": "https://www.lenskart.com/lenskart-air-la-e14958-c2-eyeglasses.html",
+                "color": "#808080",
+                "size": "Extra Wide",
+                "width": "143 mm",
+                "brand_name": "Lenskart Air",
+                "brand_name_en": "Lenskart Air",
+                "brand_logo": "https://static.lenskart.com/media/wysiwyg/blanco/images/air-logo-Hi.jpg",
+                "model_name": "LA E14958",
+                "prices": [
+                    {
+                        "name": "Market Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    },
+                    {
+                        "name": "Lenskart Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    }
+                ],
+                "is_tbyb": false,
+                "tags": "Air Prism",
+                "color_options": [
+                    {
+                        "id": "201272",
+                        "product_url": "https://www.lenskart.com/lenskart-air-la-e14958-c2-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/grey-transparent-gunmetal-grey-full-rim-round-lenskart-air-signia-la-e14958-c2-eyeglasses_g_3127_06_oct22.jpg"
+                        ],
+                        "brand_name": "Lenskart Air",
+                        "model_name": "LA E14958",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#808080",
+                        "colorId": 13925,
+                        "arModelAndroidUrl": "",
+                        "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/201272/ios/sku_201272.scn",
+                        "size": "Extra Wide",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/201272_bubble.png",
+                        "frameColor": "Grey",
+                        "title": "Lenskart Air"
+                    },
+                    {
+                        "id": "201271",
+                        "product_url": "https://www.lenskart.com/lenskart-air-la-e14958-c1-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/transparent-gunmetal-full-rim-aviator-lenskart-air-collection-la-e14958-c1-eyeglasses_g_3911_04_11_2022.jpg"
+                        ],
+                        "brand_name": "Lenskart Air Online",
+                        "model_name": "LA E14958",
+                        "prices": [
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#f1f1f1",
+                        "colorId": 13961,
+                        "arModelAndroidUrl": "",
+                        "arModelIOSUrl": "",
+                        "size": "Extra Wide",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/201271_bubble.png",
+                        "frameColor": "Transparent",
+                        "title": "Lenskart Air Online",
+                        "gradient": {
+                            "label": "with FREE BLU Screen Lenses",
+                            "startColor": "#E6E6EC",
+                            "endColor": "#FFFFFF"
+                        }
+                    },
+                    {
+                        "id": "210156",
+                        "product_url": "https://www.lenskart.com/lenskart-air-la-e14958-c4-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/black-gunmetal-full-rim-aviator-lenskart-air-fusion-la-e14958-c4-eyeglasses_g_2873_09_22_23.jpg"
+                        ],
+                        "brand_name": "Lenskart Air",
+                        "model_name": "LA E14958",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#000000",
+                        "colorId": 20767,
+                        "size": "Extra Wide",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/210156_bubble.png",
+                        "frameColor": "Black",
+                        "title": "Lenskart Air",
+                        "gradient": {
+                            "label": "with FREE BLU Screen Lenses",
+                            "startColor": "#E6E6EC",
+                            "endColor": "#FFFFFF"
+                        }
+                    }
+                ],
+                "totalColorAvailable": 3,
+                "is_ditto": true,
+                "sku": "eye:lenskart-air-la-e14958-c2-eyeglasses",
+                "hover_image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/grey-transparent-gunmetal-grey-full-rim-round-lenskart-air-signia-la-e14958-c2-eyeglasses_g_3127_06_oct22.jpg",
+                "classification": "eyeframe",
+                "specifications": [],
+                "wishlistCount": 0,
+                "purchaseCount": 36994,
+                "avgRating": 4.8,
+                "totalNoOfRatings": "25",
+                "hashtagList": [
+                    {
+                        "name": "Extra Wide",
+                        "id": 24071,
+                        "property": "frame_size_id"
+                    },
+                    {
+                        "name": "Geometric",
+                        "id": 24178,
+                        "property": "frame_shape_id"
+                    },
+                    {
+                        "name": "Lenskart Air",
+                        "id": 22563,
+                        "property": "brandname_id"
+                    },
+                    {
+                        "name": "Full Rim",
+                        "id": 11370,
+                        "property": "frametype_id"
+                    }
+                ],
+                "offerName": "BUY1500",
+                "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
+                "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
+                "arModelAndroidUrl": "",
+                "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/201272/ios/sku_201272.scn",
+                "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/201272/orignal/sku_201272.glb",
+                "qty": 2879,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/201272_bubble.png",
+                "subCollection": "Air Prism",
+                "subCollectionId": 26091,
+                "relatedItems": [],
+                "isCygnusEnabled": true,
+                "isCashbackApplicable": false,
+                "searchProductName": "Grey Transparent Full Rim Aviator Eyeglasses",
+                "prescriptionType": [],
+                "arProductImageUrl": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/grey-transparent-gunmetal-grey-full-rim-round-lenskart-air-signia-la-e14958-c2-eyeglasses_g_3127_06_oct22.jpg",
+                "showCartCta": false,
+                "sizeOptions": []
+            },
+            {
+                "id": "137971",
+                "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/black-gunmetal-black-full-rim-wayfarer-lenskart-air-fusion-la-e13068---c1-eyeglasses_lenskart-air-la-e13032-c1-eyeglasses_g_2000_05_july23.jpg",
+                "image_url_suffix": "/l/i/black-gunmetal-black-full-rim-wayfarer-lenskart-air-fusion-la-e13068---c1-eyeglasses_lenskart-air-la-e13032-c1-eyeglasses_g_2000_05_july23.jpg",
+                "imageUrls": [],
+                "product_url": "https://www.lenskart.com/lenskart-air-la-e13032-c1-eyeglasses.html",
+                "color": "#000000",
+                "size": "Medium",
+                "width": "134 mm",
+                "brand_name": "Lenskart Air",
+                "brand_name_en": "Lenskart Air",
+                "brand_logo": "https://static.lenskart.com/media/wysiwyg/blanco/images/air-logo-Hi.jpg",
+                "model_name": "LA E13068",
+                "prices": [
+                    {
+                        "name": "Market Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    },
+                    {
+                        "name": "Lenskart Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    }
+                ],
+                "is_tbyb": false,
+                "tags": "Air Fusion",
+                "color_options": [
+                    {
+                        "id": "137971",
+                        "product_url": "https://www.lenskart.com/lenskart-air-la-e13032-c1-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/black-gunmetal-black-full-rim-wayfarer-lenskart-air-fusion-la-e13068---c1-eyeglasses_lenskart-air-la-e13032-c1-eyeglasses_g_2000_05_july23.jpg"
+                        ],
+                        "brand_name": "Lenskart Air",
+                        "model_name": "LA E13068",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#000000",
+                        "colorId": 20767,
+                        "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/137971/android/sku_137971.glb",
+                        "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/137971/ios/sku_137971.scn",
+                        "size": "Medium",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/137971_bubble.png",
+                        "frameColor": "Black",
+                        "title": "Lenskart Air"
+                    },
+                    {
+                        "id": "201333",
+                        "product_url": "https://www.lenskart.com/lenskart-air-la-e13068-c6-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e13068-c6-eyeglasses_g_4836_03_03_2023.jpg"
+                        ],
+                        "brand_name": "Lenskart Air",
+                        "model_name": "LA E13068",
+                        "prices": [
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#c0c0c0",
+                        "colorId": 13925,
+                        "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/201333/android/sku_201333.glb",
+                        "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/201333/ios/sku_201333.scn",
+                        "size": "Medium",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/201333_bubble.png",
+                        "frameColor": "Grey",
+                        "title": "Lenskart Air",
+                        "gradient": {
+                            "label": "with FREE BLU Screen Lenses",
+                            "startColor": "#E6E6EC",
+                            "endColor": "#FFFFFF"
+                        }
+                    },
+                    {
+                        "id": "210143",
+                        "product_url": "https://www.lenskart.com/lenskart-air-la-e13068-c7-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e13068-c7-eyeglasses_csvfile-1695358117831-g_3319_22_09_2023.jpg"
+                        ],
+                        "brand_name": "Lenskart Air Online",
+                        "model_name": "LA E13068",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#0000ff",
+                        "colorId": 11375,
+                        "size": "Medium",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/210143_bubble.png",
+                        "frameColor": "Blue",
+                        "title": "Lenskart Air Online",
+                        "gradient": {
+                            "label": "with FREE BLU Screen Lenses",
+                            "startColor": "#E6E6EC",
+                            "endColor": "#FFFFFF"
+                        }
+                    }
+                ],
+                "totalColorAvailable": 3,
+                "is_ditto": true,
+                "sku": "eye:lenskart-air-la-e13032-c1-eyeglasses",
+                "hover_image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/black-gunmetal-black-full-rim-wayfarer-lenskart-air-fusion-la-e13068---c1-eyeglasses_lenskart-air-la-e13032-c1-eyeglasses_g_2000_05_july23.jpg",
+                "classification": "eyeframe",
+                "specifications": [],
+                "wishlistCount": 20552,
+                "purchaseCount": 91278,
+                "avgRating": 4.65,
+                "totalNoOfRatings": "176",
+                "hashtagList": [
+                    {
+                        "name": "Medium",
+                        "id": 11341,
+                        "property": "frame_size_id"
+                    },
+                    {
+                        "name": "Square",
+                        "id": 19404,
+                        "property": "frame_shape_id"
+                    },
+                    {
+                        "name": "Lenskart Air",
+                        "id": 22563,
+                        "property": "brandname_id"
+                    },
+                    {
+                        "name": "Full Rim",
+                        "id": 11370,
+                        "property": "frametype_id"
+                    }
+                ],
+                "offerName": "BUY1500",
+                "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
+                "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
+                "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/137971/android/sku_137971.glb",
+                "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/137971/ios/sku_137971.scn",
+                "arModelMsiteAndDesktopUrl": "",
+                "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/137971/orignal/sku_137971.glb",
+                "qty": 5247,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/137971_bubble.png",
+                "subCollection": "AIR FUSION",
+                "subCollectionId": 26803,
+                "relatedItems": [],
+                "isCygnusEnabled": false,
+                "isCashbackApplicable": false,
+                "searchProductName": "Black Full Rim Wayfarer Eyeglasses",
+                "prescriptionType": [],
+                "arProductImageUrl": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/black-gunmetal-black-full-rim-wayfarer-lenskart-air-fusion-la-e13068---c1-eyeglasses_lenskart-air-la-e13032-c1-eyeglasses_g_2000_05_july23.jpg",
+                "showCartCta": false,
+                "sizeOptions": []
+            },
+            {
+                "id": "150798",
+                "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/Gunmetal-Black-Full-Rim-Round-Lenskart-Air-Clip-On-LA-E14398-C2-Eyeglasses_G_7793.jpg",
+                "image_url_suffix": "/l/i/Gunmetal-Black-Full-Rim-Round-Lenskart-Air-Clip-On-LA-E14398-C2-Eyeglasses_G_7793.jpg",
+                "imageUrls": [],
+                "product_url": "https://www.lenskart.com/lenskart-air-la-e14398-cc2-eyeglasses.html",
+                "color": "#b87332",
+                "occasion": "",
+                "size": "Narrow",
+                "width": "132 mm",
+                "suited_for": "",
+                "brand_name": "Lenskart Air",
+                "brand_name_en": "Lenskart Air",
+                "brand_logo": "https://static.lenskart.com/media/wysiwyg/blanco/images/air-logo-Hi.jpg",
+                "model_name": "LA E14398",
+                "prices": [
+                    {
+                        "name": "Market Price",
+                        "currency_code": "INR",
+                        "price": 3000
+                    },
+                    {
+                        "name": "Lenskart Price",
+                        "currency_code": "INR",
+                        "price": 3000
+                    }
+                ],
+                "is_tbyb": false,
+                "tags": "Switch",
+                "color_options": [
+                    {
+                        "id": "150798",
+                        "product_url": "https://www.lenskart.com/lenskart-air-la-e14398-cc2-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/Gunmetal-Black-Full-Rim-Round-Lenskart-Air-Clip-On-LA-E14398-C2-Eyeglasses_G_7793.jpg"
+                        ],
+                        "brand_name": "Lenskart Air",
+                        "model_name": "LA E14398",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 3000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 3000
+                            }
+                        ],
+                        "color": "#b87332",
+                        "colorId": 20768,
+                        "arModelAndroidUrl": "",
+                        "arModelIOSUrl": "",
+                        "size": "Narrow",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/150798_bubble.png",
+                        "frameColor": "Gunmetal",
+                        "title": "Lenskart Air"
+                    },
+                    {
+                        "id": "216516",
+                        "product_url": "https://www.lenskart.com/lenskart-air-la-e14398-c5-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/blue-silver-full-rim-round-lenskart-air-switch-la-e14398-c5-clip-on-eyeglasses_csvfile-1710313913629-img_1923.jpg"
+                        ],
+                        "brand_name": "Lenskart Air",
+                        "model_name": "LA E14398",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 3000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 3000
+                            }
+                        ],
+                        "color": "#c0c0c0",
+                        "colorId": 11507,
+                        "size": "Narrow",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/216516_bubble.png",
+                        "frameColor": "Silver",
+                        "title": "Lenskart Air",
+                        "gradient": {
+                            "label": "with FREE BLU Screen Lenses",
+                            "startColor": "#E6E6EC",
+                            "endColor": "#FFFFFF"
+                        }
+                    }
+                ],
+                "totalColorAvailable": 2,
+                "is_ditto": true,
+                "sku": "eye:lenskart-air-la-e14398-c2-eyeglasses",
+                "hover_image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/Gunmetal-Black-Full-Rim-Round-Lenskart-Air-Clip-On-LA-E14398-C2-Eyeglasses_G_7793.jpg",
+                "classification": "eyeframe",
+                "specifications": [],
+                "wishlistCount": 612,
+                "purchaseCount": 41519,
+                "avgRating": 4.5,
+                "totalNoOfRatings": "38",
+                "hashtagList": [
+                    {
+                        "name": "Narrow",
+                        "id": 24070,
+                        "property": "frame_size_id"
+                    },
+                    {
+                        "name": "Round",
+                        "id": 11346,
+                        "property": "frame_shape_id"
+                    },
+                    {
+                        "name": "Lenskart Air",
+                        "id": 22563,
+                        "property": "brandname_id"
+                    },
+                    {
+                        "name": "Full Rim",
+                        "id": 11370,
+                        "property": "frametype_id"
+                    }
+                ],
+                "offerName": "BUY2700",
+                "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
+                "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
+                "arModelAndroidUrl": "",
+                "arModelIOSUrl": "",
+                "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/150798/orignal/sku_150798.glb",
+                "qty": 3366,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/150798_bubble.png",
+                "subCollection": "Switch",
+                "subCollectionId": 25016,
+                "inclusiveText": "",
+                "relatedItems": [],
+                "isCygnusEnabled": true,
+                "isCashbackApplicable": false,
+                "searchProductName": "Gunmetal Full Rim Round Eyeglasses",
+                "prescriptionType": [],
+                "arProductImageUrl": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/Gunmetal-Black-Full-Rim-Round-Lenskart-Air-Clip-On-LA-E14398-C2-Eyeglasses_G_7793.jpg",
+                "showCartCta": false,
+                "sizeOptions": []
+            },
+            {
+                "id": "148488",
+                "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e14035-c2-eyeglasses_vincent-chase-vc-e14035-c2-eyeglasses_G_6295.jpg",
+                "image_url_suffix": "/v/i/vincent-chase-vc-e14035-c2-eyeglasses_vincent-chase-vc-e14035-c2-eyeglasses_G_6295.jpg",
+                "imageUrls": [],
+                "product_url": "https://www.lenskart.com/vincent-chase-vc-e14035-c2-eyeglasses.html",
+                "color": "#000000",
+                "size": "Narrow",
+                "width": "130 mm",
+                "suited_for": "",
+                "brand_name": "Vincent Chase",
+                "brand_name_en": "Vincent Chase",
+                "brand_logo": "https://static.lenskart.com/media/wysiwyg/blanco/images/VC-H.jpg",
+                "model_name": "VC E14035",
+                "prices": [
+                    {
+                        "name": "Market Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    },
+                    {
+                        "name": "Lenskart Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    }
+                ],
+                "is_tbyb": false,
+                "tags": "Sleek Steel",
+                "color_options": [],
+                "totalColorAvailable": 0,
+                "is_ditto": true,
+                "sku": "eye:vincent-chase-vc-e14035-c2-eyeglasses",
+                "hover_image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e14035-c2-eyeglasses_vincent-chase-vc-e14035-c2-eyeglasses_G_6294.jpg",
+                "classification": "eyeframe",
+                "specifications": [],
+                "wishlistCount": 6584,
+                "purchaseCount": 48750,
+                "avgRating": 4.7,
+                "totalNoOfRatings": "56",
+                "hashtagList": [
+                    {
+                        "name": "Narrow",
+                        "id": 24070,
+                        "property": "frame_size_id"
+                    },
+                    {
+                        "name": "Round",
+                        "id": 11346,
+                        "property": "frame_shape_id"
+                    },
+                    {
+                        "name": "Vincent Chase",
+                        "id": 10733,
+                        "property": "brandname_id"
+                    },
+                    {
+                        "name": "Full Rim",
+                        "id": 11370,
+                        "property": "frametype_id"
+                    }
+                ],
+                "offerName": "BUY1500",
+                "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
+                "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
+                "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/148488/android/sku_148488.glb",
+                "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/148488/ios/sku_148488.scn",
+                "arModelMsiteAndDesktopUrl": "",
+                "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/148488/orignal/sku_148488.glb",
+                "qty": 5192,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/148488_bubble.png",
+                "subCollection": "SLEEK STEEL",
+                "subCollectionId": 25036,
+                "inclusiveText": "",
+                "relatedItems": [],
+                "isCygnusEnabled": true,
+                "isCashbackApplicable": false,
+                "searchProductName": "Black Gold Full Rim Round Eyeglasses",
+                "prescriptionType": [],
+                "arProductImageUrl": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e14035-c2-eyeglasses_vincent-chase-vc-e14035-c2-eyeglasses_G_6295.jpg",
+                "showCartCta": false,
+                "sizeOptions": []
+            },
+            {
+                "id": "152985",
+                "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e14736-c2-eyeglasses_g_2449_19_07_2022.jpg",
+                "image_url_suffix": "/l/i/lenskart-air-la-e14736-c2-eyeglasses_g_2449_19_07_2022.jpg",
+                "imageUrls": [],
+                "product_url": "https://www.lenskart.com/lenskart-air-la-e14736-c2-eyeglasses.html",
+                "color": "#808080",
+                "size": "Extra Wide",
+                "width": "142 mm",
+                "brand_name": "Lenskart Air",
+                "brand_name_en": "Lenskart Air",
+                "model_name": "LA E14736",
+                "prices": [
+                    {
+                        "name": "Market Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    },
+                    {
+                        "name": "Lenskart Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    }
+                ],
+                "is_tbyb": false,
+                "tags": "Air Essentials",
+                "color_options": [
+                    {
+                        "id": "152985",
+                        "product_url": "https://www.lenskart.com/lenskart-air-la-e14736-c2-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e14736-c2-eyeglasses_g_2449_19_07_2022.jpg"
+                        ],
+                        "brand_name": "Lenskart Air",
+                        "model_name": "LA E14736",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#808080",
+                        "colorId": 11517,
+                        "arModelAndroidUrl": "",
+                        "arModelIOSUrl": "",
+                        "size": "Extra Wide",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/152985_bubble.png",
+                        "frameColor": "Grey",
+                        "title": "Lenskart Air"
+                    },
+                    {
+                        "id": "152987",
+                        "product_url": "https://www.lenskart.com/lenskart-air-la-e14736-m-c2-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/blue-grey-full-rim-rectangle-lenskart-air-classic-la-e14736m-c2-eyeglasses_g_4674_01_08_2022.jpg"
+                        ],
+                        "brand_name": "Lenskart Air",
+                        "model_name": "LA E14736M",
+                        "prices": [
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#0000ff",
+                        "colorId": 11375,
+                        "arModelAndroidUrl": "",
+                        "arModelIOSUrl": "",
+                        "size": "Medium",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/152987_bubble.png",
+                        "frameColor": "Blue",
+                        "title": "Lenskart Air",
+                        "gradient": {
+                            "label": "with FREE BLU Screen Lenses",
+                            "startColor": "#E6E6EC",
+                            "endColor": "#FFFFFF"
+                        }
+                    },
+                    {
+                        "id": "152984",
+                        "product_url": "https://www.lenskart.com/lenskart-air-la-e14736-c1-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/black-full-rim-rectangle-lenskart-air-classic-la-e14736-c1-eyeglasses_g_4667_01_08_2022.jpg"
+                        ],
+                        "brand_name": "Lenskart Air",
+                        "model_name": "LA E14736",
+                        "prices": [
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#000000",
+                        "colorId": 20767,
+                        "arModelAndroidUrl": "",
+                        "arModelIOSUrl": "",
+                        "size": "Extra Wide",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/152984_bubble.png",
+                        "frameColor": "Black",
+                        "title": "Lenskart Air",
+                        "gradient": {
+                            "label": "with FREE BLU Screen Lenses",
+                            "startColor": "#E6E6EC",
+                            "endColor": "#FFFFFF"
+                        }
+                    }
+                ],
+                "totalColorAvailable": 3,
+                "is_ditto": true,
+                "sku": "eye:lenskart-air-la-e14736-c2-eyeglasses",
+                "hover_image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e14736-c2-eyeglasses_g_2448_19_07_2022.jpg",
+                "classification": "eyeframe",
+                "specifications": [],
+                "wishlistCount": 0,
+                "purchaseCount": 37764,
+                "avgRating": 4.65,
+                "totalNoOfRatings": "15",
+                "hashtagList": [
+                    {
+                        "name": "Extra Wide",
+                        "id": 24071,
+                        "property": "frame_size_id"
+                    },
+                    {
+                        "name": "Rectangle",
+                        "id": 11345,
+                        "property": "frame_shape_id"
+                    },
+                    {
+                        "name": "Lenskart Air",
+                        "id": 22563,
+                        "property": "brandname_id"
+                    },
+                    {
+                        "name": "Full Rim",
+                        "id": 11370,
+                        "property": "frametype_id"
+                    }
+                ],
+                "offerName": "BUY1500",
+                "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
+                "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
+                "arModelAndroidUrl": "",
+                "arModelIOSUrl": "",
+                "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/152985/orignal/sku_152985.glb",
+                "qty": 7054,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/152985_bubble.png",
+                "subCollection": "AIR ESSENTIALS",
+                "subCollectionId": 26802,
+                "relatedItems": [],
+                "isCygnusEnabled": true,
+                "isCashbackApplicable": false,
+                "searchProductName": "Grey Full Rim Rectangle Eyeglasses",
+                "prescriptionType": [],
+                "arProductImageUrl": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e14736-c2-eyeglasses_g_2449_19_07_2022.jpg",
+                "showCartCta": false,
+                "sizeOptions": []
+            },
+            {
+                "id": "204440",
+                "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/silver-transparent-full-rim-round-vincent-chase-sleek-steel-vc-e15069-c1-eyeglasses_g_3599_10_14_22.jpg",
+                "image_url_suffix": "/v/i/silver-transparent-full-rim-round-vincent-chase-sleek-steel-vc-e15069-c1-eyeglasses_g_3599_10_14_22.jpg",
+                "imageUrls": [],
+                "product_url": "https://www.lenskart.com/vincent-chase-vc-e15069-c1-eyeglasses.html",
+                "color": "#c0c0c0",
+                "occasion": "Working",
+                "size": "Narrow",
+                "width": "130 mm",
+                "brand_name": "Vincent Chase",
+                "brand_name_en": "Vincent Chase",
+                "brand_logo": "https://static.lenskart.com/media/wysiwyg/blanco/images/VC-H.jpg",
+                "model_name": "VC E15069",
+                "prices": [
+                    {
+                        "name": "Market Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    },
+                    {
+                        "name": "Lenskart Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    }
+                ],
+                "is_tbyb": false,
+                "tags": "Helios",
+                "color_options": [
+                    {
+                        "id": "204440",
+                        "product_url": "https://www.lenskart.com/vincent-chase-vc-e15069-c1-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/silver-transparent-full-rim-round-vincent-chase-sleek-steel-vc-e15069-c1-eyeglasses_g_3599_10_14_22.jpg"
+                        ],
+                        "brand_name": "Vincent Chase",
+                        "model_name": "VC E15069",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#c0c0c0",
+                        "colorId": 11507,
+                        "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/204440/android/sku_204440.glb",
+                        "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/204440/ios/sku_204440.scn",
+                        "size": "Narrow",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/204440_bubble.png",
+                        "frameColor": "Silver",
+                        "title": "Vincent Chase"
+                    },
+                    {
+                        "id": "204441",
+                        "product_url": "https://www.lenskart.com/vincent-chase-vc-e15069-c2-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/copper-brown-full-rim-round-vincent-chase-sleek-steel-vc-e15069-c2-eyeglasses_g_3676_10_14_22.jpg"
+                        ],
+                        "brand_name": "Vincent Chase",
+                        "model_name": "VC E15069",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#b87333",
+                        "colorId": 11516,
+                        "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/204441/android/sku_204441.glb",
+                        "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/204441/ios/sku_204441.scn",
+                        "size": "Narrow",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/204441_bubble.png",
+                        "frameColor": "Copper",
+                        "title": "Vincent Chase",
+                        "gradient": {
+                            "label": "with FREE BLU Screen Lenses",
+                            "startColor": "#E6E6EC",
+                            "endColor": "#FFFFFF"
+                        }
+                    }
+                ],
+                "totalColorAvailable": 2,
+                "is_ditto": true,
+                "sku": "eye:vincent-chase-vc-e15069-c1-eyeglasses",
+                "hover_image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/silver-transparent-full-rim-round-vincent-chase-sleek-steel-vc-e15069-c1-eyeglasses_g_3598_10_14_22.jpg",
+                "classification": "eyeframe",
+                "specifications": [],
+                "wishlistCount": 0,
+                "purchaseCount": 26132,
+                "avgRating": 4.7,
+                "totalNoOfRatings": "22",
+                "hashtagList": [
+                    {
+                        "name": "Narrow",
+                        "id": 24070,
+                        "property": "frame_size_id"
+                    },
+                    {
+                        "name": "Round",
+                        "id": 11346,
+                        "property": "frame_shape_id"
+                    },
+                    {
+                        "name": "Vincent Chase",
+                        "id": 10733,
+                        "property": "brandname_id"
+                    },
+                    {
+                        "name": "Full Rim",
+                        "id": 11370,
+                        "property": "frametype_id"
+                    }
+                ],
+                "offerName": "BUY1500",
+                "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
+                "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
+                "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/204440/android/sku_204440.glb",
+                "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/204440/ios/sku_204440.scn",
+                "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/204440/orignal/sku_204440.glb",
+                "qty": 2644,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/204440_bubble.png",
+                "subCollection": "Helios",
+                "subCollectionId": 26071,
+                "relatedItems": [],
+                "isCygnusEnabled": true,
+                "isCashbackApplicable": false,
+                "searchProductName": "Silver Full Rim Round Eyeglasses",
+                "prescriptionType": [],
+                "arProductImageUrl": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/silver-transparent-full-rim-round-vincent-chase-sleek-steel-vc-e15069-c1-eyeglasses_g_3599_10_14_22.jpg",
+                "showCartCta": false,
+                "sizeOptions": []
+            },
+            {
+                "id": "151703",
+                "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/grey-transparent-gold-grey-full-rim-rectangle-lenskart-air-signia-la-e14573-c1-eyeglasses_g_4985_6_13_22.jpg",
+                "image_url_suffix": "/l/i/grey-transparent-gold-grey-full-rim-rectangle-lenskart-air-signia-la-e14573-c1-eyeglasses_g_4985_6_13_22.jpg",
+                "imageUrls": [],
+                "product_url": "https://www.lenskart.com/lenskart-air-la-e14573-c1-eyeglasses.html",
+                "color": "#808080",
+                "size": "Medium",
+                "width": "136 mm",
+                "brand_name": "Lenskart Air",
+                "brand_name_en": "Lenskart Air",
+                "brand_logo": "https://static.lenskart.com/media/wysiwyg/blanco/images/air-logo-Hi.jpg",
+                "model_name": "LA E14573",
+                "prices": [
+                    {
+                        "name": "Market Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    },
+                    {
+                        "name": "Lenskart Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    }
+                ],
+                "is_tbyb": false,
+                "tags": "Air Fusion",
+                "color_options": [
+                    {
+                        "id": "151703",
+                        "product_url": "https://www.lenskart.com/lenskart-air-la-e14573-c1-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/grey-transparent-gold-grey-full-rim-rectangle-lenskart-air-signia-la-e14573-c1-eyeglasses_g_4985_6_13_22.jpg"
+                        ],
+                        "brand_name": "Lenskart Air",
+                        "model_name": "LA E14573",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#808080",
+                        "colorId": 13925,
+                        "arModelAndroidUrl": "",
+                        "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/151703/ios/sku_151703.scn",
+                        "size": "Medium",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/151703_bubble.png",
+                        "frameColor": "Grey",
+                        "title": "Lenskart Air"
+                    },
+                    {
+                        "id": "206273",
+                        "product_url": "https://www.lenskart.com/lenskart-air-la-e14573-c4-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e14573-c4-eyeglasses_g_7010_21_12_2022.jpg"
+                        ],
+                        "brand_name": "Lenskart Air Online",
+                        "model_name": "LA E14573",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#ffff00",
+                        "colorId": 11376,
+                        "size": "Medium",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/206273_bubble.png",
+                        "frameColor": "Yellow",
+                        "title": "Lenskart Air Online",
+                        "gradient": {
+                            "label": "with FREE BLU Screen Lenses",
+                            "startColor": "#E6E6EC",
+                            "endColor": "#FFFFFF"
+                        }
+                    }
+                ],
+                "totalColorAvailable": 2,
+                "is_ditto": true,
+                "sku": "eye:lenskart-air-la-e14573-c1-eyeglasses",
+                "hover_image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/grey-transparent-gold-grey-full-rim-rectangle-lenskart-air-signia-la-e14573-c1-eyeglasses_g_4985_6_13_22.jpg",
+                "classification": "eyeframe",
+                "specifications": [],
+                "wishlistCount": 0,
+                "purchaseCount": 31713,
+                "avgRating": 4.7,
+                "totalNoOfRatings": "70",
+                "hashtagList": [
+                    {
+                        "name": "Medium",
+                        "id": 11341,
+                        "property": "frame_size_id"
+                    },
+                    {
+                        "name": "Square",
+                        "id": 19404,
+                        "property": "frame_shape_id"
+                    },
+                    {
+                        "name": "Lenskart Air",
+                        "id": 22563,
+                        "property": "brandname_id"
+                    },
+                    {
+                        "name": "Full Rim",
+                        "id": 11370,
+                        "property": "frametype_id"
+                    }
+                ],
+                "offerName": "BUY1500",
+                "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
+                "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
+                "arModelAndroidUrl": "",
+                "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/151703/ios/sku_151703.scn",
+                "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/151703/orignal/sku_151703.glb",
+                "qty": 1777,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/151703_bubble.png",
+                "subCollection": "AIR FUSION",
+                "subCollectionId": 26803,
+                "relatedItems": [],
+                "isCygnusEnabled": true,
+                "isCashbackApplicable": false,
+                "searchProductName": "Grey Transparent Full Rim Rectangle Eyeglasses",
+                "prescriptionType": [],
+                "arProductImageUrl": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/grey-transparent-gold-grey-full-rim-rectangle-lenskart-air-signia-la-e14573-c1-eyeglasses_g_4985_6_13_22.jpg",
+                "showCartCta": false,
+                "sizeOptions": []
+            },
+            {
+                "id": "150584",
+                "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/Lenskart-Air-LA-E14363-C1-Eyeglasses_J_1873.jpg",
+                "image_url_suffix": "/l/i/Lenskart-Air-LA-E14363-C1-Eyeglasses_J_1873.jpg",
+                "imageUrls": [],
+                "product_url": "https://www.lenskart.com/lenskart-air-la-e14363-c1-eyeglasses.html",
+                "color": "#0000ff",
+                "size": "Wide",
+                "width": "141 mm",
+                "brand_name": "Lenskart Air",
+                "brand_name_en": "Lenskart Air",
+                "brand_logo": "https://static.lenskart.com/media/wysiwyg/blanco/images/air-logo-Hi.jpg",
+                "model_name": "LA E14363",
+                "prices": [
+                    {
+                        "name": "Market Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    },
+                    {
+                        "name": "Lenskart Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    }
+                ],
+                "is_tbyb": false,
+                "tags": "Essential Edit",
+                "color_options": [
+                    {
+                        "id": "150584",
+                        "product_url": "https://www.lenskart.com/lenskart-air-la-e14363-c1-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/Lenskart-Air-LA-E14363-C1-Eyeglasses_J_1873.jpg"
+                        ],
+                        "brand_name": "Lenskart Air",
+                        "model_name": "LA E14363",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#0000ff",
+                        "colorId": 11375,
+                        "arModelAndroidUrl": "",
+                        "arModelIOSUrl": "",
+                        "size": "Wide",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/150584_bubble.png",
+                        "frameColor": "Blue",
+                        "title": "Lenskart Air"
+                    },
+                    {
+                        "id": "210187",
+                        "product_url": "https://www.lenskart.com/lenskart-air-la-e14363-c4-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e14363-c4-eyeglasses_g_3471_18_09_2023.jpg"
+                        ],
+                        "brand_name": "Lenskart Air",
+                        "model_name": "LA E14363",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#c0c0c0",
+                        "colorId": 13925,
+                        "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/210187/android/sku_210187.glb",
+                        "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/210187/ios/sku_210187.scn",
+                        "size": "Wide",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/210187_bubble.png",
+                        "frameColor": "Grey Transparent",
+                        "title": "Lenskart Air",
+                        "gradient": {
+                            "label": "with FREE BLU Screen Lenses",
+                            "startColor": "#E6E6EC",
+                            "endColor": "#FFFFFF"
+                        }
+                    },
+                    {
+                        "id": "150586",
+                        "product_url": "https://www.lenskart.com/lenskart-air-la-e14363-c3-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/Lenskart-Air-LA-E14363-C3-Eyeglasses_J_1859.jpg"
+                        ],
+                        "brand_name": "Lenskart Air",
+                        "model_name": "LA E14363",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#808080",
+                        "colorId": 13925,
+                        "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/150586/android/sku_150586.glb",
+                        "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/150586/ios/sku_150586.scn",
+                        "size": "Wide",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/150586_bubble.png",
+                        "frameColor": "Grey",
+                        "title": "Lenskart Air",
+                        "gradient": {
+                            "label": "with FREE BLU Screen Lenses",
+                            "startColor": "#E6E6EC",
+                            "endColor": "#FFFFFF"
+                        }
+                    }
+                ],
+                "totalColorAvailable": 3,
+                "is_ditto": true,
+                "sku": "eye:lenskart-air-la-e14363-c1-eyeglasses",
+                "hover_image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/Lenskart-Air-LA-E14363-C1-Eyeglasses_J_1872.jpg",
+                "classification": "eyeframe",
+                "specifications": [],
+                "wishlistCount": 759,
+                "purchaseCount": 57092,
+                "avgRating": 4.7,
+                "totalNoOfRatings": "42",
+                "hashtagList": [
+                    {
+                        "name": "Wide",
+                        "id": 24069,
+                        "property": "frame_size_id"
+                    },
+                    {
+                        "name": "Rectangle",
+                        "id": 11345,
+                        "property": "frame_shape_id"
+                    },
+                    {
+                        "name": "Lenskart Air",
+                        "id": 22563,
+                        "property": "brandname_id"
+                    },
+                    {
+                        "name": "Full Rim",
+                        "id": 11370,
+                        "property": "frametype_id"
+                    }
+                ],
+                "offerName": "BUY1500",
+                "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
+                "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
+                "arModelAndroidUrl": "",
+                "arModelIOSUrl": "",
+                "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/150584/orignal/sku_150584.glb",
+                "qty": 1931,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/150584_bubble.png",
+                "subCollection": "Essential Edit",
+                "subCollectionId": 25024,
+                "relatedItems": [],
+                "isCygnusEnabled": false,
+                "isCashbackApplicable": false,
+                "searchProductName": "Blue Full Rim Square Eyeglasses",
+                "prescriptionType": [],
+                "arProductImageUrl": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/Lenskart-Air-LA-E14363-C1-Eyeglasses_J_1873.jpg",
+                "showCartCta": false,
+                "sizeOptions": []
+            },
+            {
+                "id": "149021",
+                "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/black-transparent-gunmetal-full-rim-cat-eye-lenskart-air-fusion-la-e14101-c1-eyeglasses_lenskart-air-la-e14101-c1-c1-eyeglasses_g_7496_28july23.jpg",
+                "image_url_suffix": "/l/i/black-transparent-gunmetal-full-rim-cat-eye-lenskart-air-fusion-la-e14101-c1-eyeglasses_lenskart-air-la-e14101-c1-c1-eyeglasses_g_7496_28july23.jpg",
+                "imageUrls": [],
+                "product_url": "https://www.lenskart.com/lenskart-air-la-e14101-c1-c1-eyeglasses.html",
+                "color": "#000000",
+                "size": "Wide",
+                "width": "138 mm",
+                "brand_name": "Lenskart Air",
+                "brand_name_en": "Lenskart Air",
+                "brand_logo": "https://static.lenskart.com/media/wysiwyg/blanco/images/air-logo-Hi.jpg",
+                "model_name": "LA E14101",
+                "prices": [
+                    {
+                        "name": "Market Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    },
+                    {
+                        "name": "Lenskart Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    }
+                ],
+                "is_tbyb": false,
+                "tags": "Float Pop",
+                "color_options": [
+                    {
+                        "id": "149021",
+                        "product_url": "https://www.lenskart.com/lenskart-air-la-e14101-c1-c1-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/black-transparent-gunmetal-full-rim-cat-eye-lenskart-air-fusion-la-e14101-c1-eyeglasses_lenskart-air-la-e14101-c1-c1-eyeglasses_g_7496_28july23.jpg"
+                        ],
+                        "brand_name": "Lenskart Air",
+                        "model_name": "LA E14101",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#000000",
+                        "colorId": 16396,
+                        "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/149021/android/sku_149021.glb",
+                        "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/149021/ios/sku_149021.scn",
+                        "size": "Wide",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/149021_bubble.png",
+                        "frameColor": "Black",
+                        "title": "Lenskart Air"
+                    },
+                    {
+                        "id": "201343",
+                        "product_url": "https://www.lenskart.com/lenskart-air-la-e14101-c4-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/lenskart-air-la-e14101-c4-eyeglasses_g_5955_16_08_2022.jpg"
+                        ],
+                        "brand_name": "Lenskart Air",
+                        "model_name": "LA E14101",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#ee7600",
+                        "colorId": 18455,
+                        "arModelAndroidUrl": "",
+                        "arModelIOSUrl": "",
+                        "size": "Wide",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/201343_bubble.png",
+                        "frameColor": "Orange",
+                        "title": "Lenskart Air",
+                        "gradient": {
+                            "label": "with FREE BLU Screen Lenses",
+                            "startColor": "#E6E6EC",
+                            "endColor": "#FFFFFF"
+                        }
+                    },
+                    {
+                        "id": "149022",
+                        "product_url": "https://www.lenskart.com/lenskart-air-la-e14101-c2-c2-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/pink-transparent-full-rim-cat-eye-lenskart-air-fusion-la-e14101-c2-eyeglasses_lenskart-air-la-e14101-c2-c2-eyeglasses_g_7524_28july23.jpg"
+                        ],
+                        "brand_name": "Lenskart Air",
+                        "model_name": "LA E14101",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#ffc0cb",
+                        "colorId": 19013,
+                        "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/149022/android/sku_149022.glb",
+                        "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/149022/ios/sku_149022.scn",
+                        "size": "Wide",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/149022_bubble.png",
+                        "frameColor": "Pink",
+                        "title": "Lenskart Air",
+                        "gradient": {
+                            "label": "with FREE BLU Screen Lenses",
+                            "startColor": "#E6E6EC",
+                            "endColor": "#FFFFFF"
+                        }
+                    }
+                ],
+                "totalColorAvailable": 3,
+                "is_ditto": true,
+                "sku": "eye:lenskart-air-la-e14101-c1-c1-eyeglasses",
+                "hover_image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/black-transparent-gunmetal-full-rim-cat-eye-lenskart-air-fusion-la-e14101-c1-eyeglasses_lenskart-air-la-e14101-c1-c1-eyeglasses_g_7495_28july23.jpg",
+                "classification": "eyeframe",
+                "specifications": [],
+                "wishlistCount": 2283,
+                "purchaseCount": 42085,
+                "avgRating": 4.7,
+                "totalNoOfRatings": "40",
+                "hashtagList": [
+                    {
+                        "name": "Wide",
+                        "id": 24069,
+                        "property": "frame_size_id"
+                    },
+                    {
+                        "name": "Cat Eye",
+                        "id": 11351,
+                        "property": "frame_shape_id"
+                    },
+                    {
+                        "name": "Lenskart Air",
+                        "id": 22563,
+                        "property": "brandname_id"
+                    },
+                    {
+                        "name": "Full Rim",
+                        "id": 11370,
+                        "property": "frametype_id"
+                    }
+                ],
+                "offerName": "BUY1500",
+                "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
+                "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
+                "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/149021/android/sku_149021.glb",
+                "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/149021/ios/sku_149021.scn",
+                "arModelMsiteAndDesktopUrl": "",
+                "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/149021/orignal/sku_149021.glb",
+                "qty": 2044,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/149021_bubble.png",
+                "subCollection": "Float Pop",
+                "subCollectionId": 25009,
+                "relatedItems": [],
+                "isCygnusEnabled": true,
+                "isCashbackApplicable": false,
+                "searchProductName": "Black Transparent Full Rim Cat Eye Eyeglasses",
+                "prescriptionType": [],
+                "arProductImageUrl": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/black-transparent-gunmetal-full-rim-cat-eye-lenskart-air-fusion-la-e14101-c1-eyeglasses_lenskart-air-la-e14101-c1-c1-eyeglasses_g_7496_28july23.jpg",
+                "showCartCta": false,
+                "sizeOptions": []
+            },
+            {
+                "id": "149190",
+                "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e10502-c8-c8-eyeglasses_g_4319.jpg",
+                "image_url_suffix": "/v/i/vincent-chase-vc-e10502-c8-c8-eyeglasses_g_4319.jpg",
+                "imageUrls": [],
+                "product_url": "https://www.lenskart.com/vincent-chase-vc-e10502-c8-c8-eyeglasses.html",
+                "color": "",
+                "size": "Narrow",
+                "width": "131 mm",
+                "brand_name": "Vincent Chase",
+                "brand_name_en": "Vincent Chase",
+                "brand_logo": "https://static.lenskart.com/media/wysiwyg/blanco/images/VC-H.jpg",
+                "model_name": "VC E10502",
+                "prices": [
+                    {
+                        "name": "Market Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    },
+                    {
+                        "name": "Lenskart Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    }
+                ],
+                "is_tbyb": false,
+                "tags": "Classic Acetate",
+                "color_options": [
+                    {
+                        "id": "149190",
+                        "product_url": "https://www.lenskart.com/vincent-chase-vc-e10502-c8-c8-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e10502-c8-c8-eyeglasses_g_4319.jpg"
+                        ],
+                        "brand_name": "Vincent Chase",
+                        "model_name": "VC E10502",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "",
+                        "colorId": 0,
+                        "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/149190/android/sku_149190.glb",
+                        "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/149190/ios/sku_149190.scn",
+                        "size": "Narrow",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/149190_bubble.png",
+                        "frameColor": "Transparent",
+                        "title": "Vincent Chase"
+                    },
+                    {
+                        "id": "139078",
+                        "product_url": "https://www.lenskart.com/grey-blue-transparent-full-rim-rectangle-medium-size-52-vincent-chase-vagabond-vc-e10502-c2-colored-lens-tinted-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e10502-c-2-eyeglasses_g_0916_1.jpg"
+                        ],
+                        "brand_name": "Vincent Chase Online",
+                        "model_name": "VC E10502",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#808080",
+                        "colorId": 11375,
+                        "arModelAndroidUrl": "",
+                        "arModelIOSUrl": "",
+                        "size": "Narrow",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/139078_bubble.png",
+                        "frameColor": "Blue",
+                        "title": "Vincent Chase Online",
+                        "gradient": {
+                            "label": "with FREE BLU Screen Lenses",
+                            "startColor": "#E6E6EC",
+                            "endColor": "#FFFFFF"
+                        }
+                    },
+                    {
+                        "id": "211303",
+                        "product_url": "https://www.lenskart.com/vincent-chase-vc-e10502-w-c1-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e10502-w-c1-eyeglasses_g_8169_10_04_23.jpg"
+                        ],
+                        "brand_name": "Vincent Chase",
+                        "model_name": "VC E10502-W",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#0000ff",
+                        "colorId": 11375,
+                        "size": "Wide",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/211303_bubble.png",
+                        "frameColor": "Blue",
+                        "title": "Vincent Chase",
+                        "gradient": {
+                            "label": "with FREE BLU Screen Lenses",
+                            "startColor": "#E6E6EC",
+                            "endColor": "#FFFFFF"
+                        }
+                    },
+                    {
+                        "id": "211302",
+                        "product_url": "https://www.lenskart.com/vincent-chase-vc-e10502-m-c1-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/blue-full-rim-rectangle-vincent-chase-classic-acetate-vc-e10502-m-c1-eyeglasses_csvfile-1696483621608-g_4258.jpg"
+                        ],
+                        "brand_name": "Vincent Chase",
+                        "model_name": "VC E10502-M",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#0000ff",
+                        "colorId": 11375,
+                        "size": "Medium",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/211302_bubble.png",
+                        "frameColor": "Blue",
+                        "title": "Vincent Chase",
+                        "gradient": {
+                            "label": "with FREE BLU Screen Lenses",
+                            "startColor": "#E6E6EC",
+                            "endColor": "#FFFFFF"
+                        }
+                    },
+                    {
+                        "id": "130270",
+                        "product_url": "https://www.lenskart.com/vincent-chase-vc-e10502-c-2-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e10502-c-2-eyeglasses_g_0916_2.jpg"
+                        ],
+                        "brand_name": "Vincent Chase",
+                        "model_name": "VC E10502",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#808080",
+                        "colorId": 11375,
+                        "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/130270/android/sku_130270.glb",
+                        "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/130270/ios/sku_130270.scn",
+                        "size": "Narrow",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/130270_bubble.png",
+                        "frameColor": "Blue",
+                        "title": "Vincent Chase",
+                        "gradient": {
+                            "label": "with FREE BLU Screen Lenses",
+                            "startColor": "#E6E6EC",
+                            "endColor": "#FFFFFF"
+                        }
+                    }
+                ],
+                "totalColorAvailable": 5,
+                "is_ditto": true,
+                "sku": "eye:vincent-chase-vc-e10502-c8-c8-eyeglasses",
+                "hover_image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e10502-c8-c8-eyeglasses_g_4319.jpg",
+                "classification": "eyeframe",
+                "specifications": [],
+                "wishlistCount": 1579,
+                "purchaseCount": 50822,
+                "avgRating": 4.45,
+                "totalNoOfRatings": "138",
+                "hashtagList": [
+                    {
+                        "name": "Narrow",
+                        "id": 24070,
+                        "property": "frame_size_id"
+                    },
+                    {
+                        "name": "Rectangle",
+                        "id": 11345,
+                        "property": "frame_shape_id"
+                    },
+                    {
+                        "name": "Vincent Chase",
+                        "id": 10733,
+                        "property": "brandname_id"
+                    },
+                    {
+                        "name": "Full Rim",
+                        "id": 11370,
+                        "property": "frametype_id"
+                    }
+                ],
+                "offerName": "BUY1500",
+                "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
+                "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
+                "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/149190/android/sku_149190.glb",
+                "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/149190/ios/sku_149190.scn",
+                "arModelMsiteAndDesktopUrl": "",
+                "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/149190/orignal/sku_149190.glb",
+                "qty": 5269,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/149190_bubble.png",
+                "subCollection": "Classic Acetate",
+                "subCollectionId": 24103,
+                "relatedItems": [],
+                "isCygnusEnabled": true,
+                "isCashbackApplicable": false,
+                "searchProductName": "Full Rim Rectangle Eyeglasses",
+                "prescriptionType": [],
+                "arProductImageUrl": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e10502-c8-c8-eyeglasses_g_4319.jpg",
+                "showCartCta": false,
+                "sizeOptions": []
+            },
+            {
+                "id": "201103",
+                "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/gold-black-full-rim-square-vincent-chase-sleek-steel-vc-e14938-c1-eyeglasses_g_0365_09_july_2022.jpg",
+                "image_url_suffix": "/v/i/gold-black-full-rim-square-vincent-chase-sleek-steel-vc-e14938-c1-eyeglasses_g_0365_09_july_2022.jpg",
+                "imageUrls": [],
+                "product_url": "https://www.lenskart.com/vincent-chase-vc-e14938-c1-eyeglasses.html",
+                "color": "#ffd700",
+                "occasion": "Working",
+                "size": "Wide",
+                "width": "139 mm",
+                "brand_name": "Vincent Chase",
+                "brand_name_en": "Vincent Chase",
+                "model_name": "VC E14938",
+                "prices": [
+                    {
+                        "name": "Market Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    },
+                    {
+                        "name": "Lenskart Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    }
+                ],
+                "is_tbyb": false,
+                "tags": "Sleek Steel",
+                "color_options": [
+                    {
+                        "id": "201103",
+                        "product_url": "https://www.lenskart.com/vincent-chase-vc-e14938-c1-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/gold-black-full-rim-square-vincent-chase-sleek-steel-vc-e14938-c1-eyeglasses_g_0365_09_july_2022.jpg"
+                        ],
+                        "brand_name": "Vincent Chase",
+                        "model_name": "VC E14938",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#ffd700",
+                        "colorId": 17029,
+                        "arModelAndroidUrl": "",
+                        "arModelIOSUrl": "",
+                        "size": "Wide",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/201103_bubble.png",
+                        "frameColor": "Gold",
+                        "title": "Vincent Chase"
+                    },
+                    {
+                        "id": "201105",
+                        "product_url": "https://www.lenskart.com/vincent-chase-vc-e14938-c3-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/blue-black-full-rim-square-vincent-chase-sleek-steel-vc-e14938-c3-eyeglasses_g_0359_09_july_2022.jpg"
+                        ],
+                        "brand_name": "Vincent Chase",
+                        "model_name": "VC E14938",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#0000ff",
+                        "colorId": 11385,
+                        "arModelAndroidUrl": "",
+                        "arModelIOSUrl": "",
+                        "size": "Wide",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/201105_bubble.png",
+                        "frameColor": "Blue",
+                        "title": "Vincent Chase",
+                        "gradient": {
+                            "label": "with FREE BLU Screen Lenses",
+                            "startColor": "#E6E6EC",
+                            "endColor": "#FFFFFF"
+                        }
+                    },
+                    {
+                        "id": "201104",
+                        "product_url": "https://www.lenskart.com/vincent-chase-vc-e14938-c2-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/silver-black-full-rim-square-vincent-chase-sleek-steel-vc-e14938-c2-eyeglasses_g_0372_09_july_2022.jpg"
+                        ],
+                        "brand_name": "Vincent Chase",
+                        "model_name": "VC E14938",
+                        "prices": [
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#c0c0c0",
+                        "colorId": 11543,
+                        "arModelAndroidUrl": "",
+                        "arModelIOSUrl": "",
+                        "size": "Wide",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/201104_bubble.png",
+                        "frameColor": "Silver",
+                        "title": "Vincent Chase",
+                        "gradient": {
+                            "label": "with FREE BLU Screen Lenses",
+                            "startColor": "#E6E6EC",
+                            "endColor": "#FFFFFF"
+                        }
+                    }
+                ],
+                "totalColorAvailable": 3,
+                "is_ditto": true,
+                "sku": "eye:vincent-chase-vc-e14938-c1-eyeglasses",
+                "hover_image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/gold-black-full-rim-square-vincent-chase-sleek-steel-vc-e14938-c1-eyeglasses_g_0364_09_july_2022.jpg",
+                "classification": "eyeframe",
+                "specifications": [],
+                "wishlistCount": 0,
+                "purchaseCount": 34985,
+                "avgRating": 4.6,
+                "totalNoOfRatings": "34",
+                "hashtagList": [
+                    {
+                        "name": "Wide",
+                        "id": 24069,
+                        "property": "frame_size_id"
+                    },
+                    {
+                        "name": "Square",
+                        "id": 19404,
+                        "property": "frame_shape_id"
+                    },
+                    {
+                        "name": "Vincent Chase",
+                        "id": 10733,
+                        "property": "brandname_id"
+                    },
+                    {
+                        "name": "Full Rim",
+                        "id": 11370,
+                        "property": "frametype_id"
+                    }
+                ],
+                "offerName": "BUY1500",
+                "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
+                "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
+                "arModelAndroidUrl": "",
+                "arModelIOSUrl": "",
+                "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/201103/orignal/sku_201103.glb",
+                "qty": 110,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/201103_bubble.png",
+                "subCollection": "SLEEK STEEL",
+                "subCollectionId": 25036,
+                "relatedItems": [],
+                "isCygnusEnabled": true,
+                "isCashbackApplicable": false,
+                "searchProductName": "Gold Black Full Rim Square Eyeglasses",
+                "prescriptionType": [],
+                "arProductImageUrl": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/gold-black-full-rim-square-vincent-chase-sleek-steel-vc-e14938-c1-eyeglasses_g_0365_09_july_2022.jpg",
+                "showCartCta": false,
+                "sizeOptions": []
+            },
+            {
+                "id": "137930",
+                "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e13033-c2-eyeglasses_g_1188.jpg",
+                "image_url_suffix": "/v/i/vincent-chase-vc-e13033-c2-eyeglasses_g_1188.jpg",
+                "imageUrls": [],
+                "product_url": "https://www.lenskart.com/vincent-chase-vc-e13033-c2-eyeglasses.html",
+                "color": "#808080",
+                "size": "Wide",
+                "width": "142 mm",
+                "brand_name": "Vincent Chase",
+                "brand_name_en": "Vincent Chase",
+                "brand_logo": "https://static.lenskart.com/media/wysiwyg/blanco/images/VC-H.jpg",
+                "model_name": "VC E13033",
+                "prices": [
+                    {
+                        "name": "Market Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    },
+                    {
+                        "name": "Lenskart Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    }
+                ],
+                "is_tbyb": false,
+                "tags": "Blend Edit",
+                "color_options": [
+                    {
+                        "id": "137930",
+                        "product_url": "https://www.lenskart.com/vincent-chase-vc-e13033-c2-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e13033-c2-eyeglasses_g_1188.jpg"
+                        ],
+                        "brand_name": "Vincent Chase",
+                        "model_name": "VC E13033",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#808080",
+                        "colorId": 11517,
+                        "arModelAndroidUrl": "",
+                        "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/137930/ios/sku_137930.scn",
+                        "size": "Wide",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/137930_bubble.png",
+                        "frameColor": "Grey",
+                        "title": "Vincent Chase"
+                    },
+                    {
+                        "id": "149097",
+                        "product_url": "https://www.lenskart.com/vincent-chase-vc-e13033-m-c2-c2-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e13033-m-c2-c2-eyeglasses_g_3464.jpg"
+                        ],
+                        "brand_name": "Vincent Chase",
+                        "model_name": "VC E13033-M",
+                        "prices": [
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#808080",
+                        "colorId": 21122,
+                        "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/149097/android/sku_149097.glb",
+                        "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/149097/ios/sku_149097.scn",
+                        "size": "Medium",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/149097_bubble.png",
+                        "frameColor": "Grey",
+                        "title": "Vincent Chase",
+                        "gradient": {
+                            "label": "with FREE BLU Screen Lenses",
+                            "startColor": "#E6E6EC",
+                            "endColor": "#FFFFFF"
+                        }
+                    },
+                    {
+                        "id": "137929",
+                        "product_url": "https://www.lenskart.com/vincent-chase-vc-e13033-c1-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e13033-c1-eyeglasses_g_2117_image_pla_1.jpg"
+                        ],
+                        "brand_name": "Vincent Chase",
+                        "model_name": "VC E13033",
+                        "prices": [
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#808080",
+                        "colorId": 16018,
+                        "arModelAndroidUrl": "",
+                        "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/137929/ios/sku_137929.scn",
+                        "size": "Wide",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/137929_bubble.png",
+                        "frameColor": "Tortoise",
+                        "title": "Vincent Chase",
+                        "gradient": {
+                            "label": "with FREE BLU Screen Lenses",
+                            "startColor": "#E6E6EC",
+                            "endColor": "#FFFFFF"
+                        }
+                    },
+                    {
+                        "id": "211308",
+                        "product_url": "https://www.lenskart.com/vincent-chase-vc-e13033-n-c1-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e13033-n-c1-eyeglasses_csvfile-1701169095569-img_5213.jpg"
+                        ],
+                        "brand_name": "Vincent Chase",
+                        "model_name": "VC E13033-N",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#c0c0c0",
+                        "colorId": 13925,
+                        "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/211308/android/sku_211308.glb",
+                        "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/211308/ios/sku_211308.scn",
+                        "size": "Narrow",
+                        "frameColor": "Silver",
+                        "title": "Vincent Chase",
+                        "gradient": {
+                            "label": "with FREE BLU Screen Lenses",
+                            "startColor": "#E6E6EC",
+                            "endColor": "#FFFFFF"
+                        }
+                    }
+                ],
+                "totalColorAvailable": 4,
+                "is_ditto": true,
+                "sku": "eye:vincent-chase-vc-e13033-c2-eyeglasses",
+                "hover_image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e13033-c2-eyeglasses_g_1188.jpg",
+                "classification": "eyeframe",
+                "specifications": [],
+                "wishlistCount": 9257,
+                "purchaseCount": 67820,
+                "avgRating": 4.65,
+                "totalNoOfRatings": "160",
+                "hashtagList": [
+                    {
+                        "name": "Wide",
+                        "id": 24069,
+                        "property": "frame_size_id"
+                    },
+                    {
+                        "name": "Round",
+                        "id": 11346,
+                        "property": "frame_shape_id"
+                    },
+                    {
+                        "name": "Vincent Chase",
+                        "id": 10733,
+                        "property": "brandname_id"
+                    },
+                    {
+                        "name": "Full Rim",
+                        "id": 11370,
+                        "property": "frametype_id"
+                    }
+                ],
+                "offerName": "BUY1500",
+                "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
+                "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
+                "arModelAndroidUrl": "",
+                "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/137930/ios/sku_137930.scn",
+                "arModelMsiteAndDesktopUrl": "NULL",
+                "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/137930/orignal/sku_137930.glb",
+                "qty": 4724,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/137930_bubble.png",
+                "subCollection": "Blend Edit",
+                "subCollectionId": 25041,
+                "relatedItems": [],
+                "isCygnusEnabled": true,
+                "isCashbackApplicable": false,
+                "searchProductName": "Grey Full Rim Round Eyeglasses",
+                "prescriptionType": [],
+                "arProductImageUrl": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-e13033-c2-eyeglasses_g_1188.jpg",
+                "showCartCta": false,
+                "sizeOptions": []
+            },
+            {
+                "id": "201618",
+                "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/brown-transparent-silver-full-rim-cat-eye-vincent-chase-blend-edit-vc-e14973-c2-eyeglasses_g_3516_10_14_22.jpg",
+                "image_url_suffix": "/v/i/brown-transparent-silver-full-rim-cat-eye-vincent-chase-blend-edit-vc-e14973-c2-eyeglasses_g_3516_10_14_22.jpg",
+                "imageUrls": [],
+                "product_url": "https://www.lenskart.com/vincent-chase-vc-e14973-c2-eyeglasses.html",
+                "color": "#a52a2a",
+                "occasion": "Working",
+                "size": "Narrow",
+                "width": "132 mm",
+                "brand_name": "Vincent Chase",
+                "brand_name_en": "Vincent Chase",
+                "brand_logo": "https://static.lenskart.com/media/wysiwyg/blanco/images/VC-H.jpg",
+                "model_name": "VC E14973",
+                "prices": [
+                    {
+                        "name": "Market Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    },
+                    {
+                        "name": "Lenskart Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    }
+                ],
+                "is_tbyb": false,
+                "tags": "Blend Edit",
+                "color_options": [],
+                "totalColorAvailable": 0,
+                "is_ditto": true,
+                "sku": "eye:vincent-chase-vc-e14973-c2-eyeglasses",
+                "hover_image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/brown-transparent-silver-full-rim-cat-eye-vincent-chase-blend-edit-vc-e14973-c2-eyeglasses_g_3516_10_14_22.jpg",
+                "classification": "eyeframe",
+                "specifications": [],
+                "wishlistCount": 0,
+                "purchaseCount": 46756,
+                "avgRating": 4.8,
+                "totalNoOfRatings": "15",
+                "hashtagList": [
+                    {
+                        "name": "Narrow",
+                        "id": 24070,
+                        "property": "frame_size_id"
+                    },
+                    {
+                        "name": "Cat Eye",
+                        "id": 11351,
+                        "property": "frame_shape_id"
+                    },
+                    {
+                        "name": "Vincent Chase",
+                        "id": 10733,
+                        "property": "brandname_id"
+                    },
+                    {
+                        "name": "Full Rim",
+                        "id": 11370,
+                        "property": "frametype_id"
+                    }
+                ],
+                "offerName": "BUY1500",
+                "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
+                "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
+                "arModelAndroidUrl": "",
+                "arModelIOSUrl": "",
+                "arModelOriginalUrl": "https://3d-asset-lookr-new.s3.ap-southeast-1.amazonaws.com/frameassets/201618/orignal/sku_201618.glb",
+                "qty": 729,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/201618_bubble.png",
+                "subCollection": "Blend Edit",
+                "subCollectionId": 25041,
+                "relatedItems": [],
+                "isCygnusEnabled": true,
+                "isCashbackApplicable": false,
+                "searchProductName": "Brown Transparent Full Rim Cat Eye Eyeglasses",
+                "prescriptionType": [],
+                "arProductImageUrl": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//v/i/brown-transparent-silver-full-rim-cat-eye-vincent-chase-blend-edit-vc-e14973-c2-eyeglasses_g_3516_10_14_22.jpg",
+                "showCartCta": false,
+                "sizeOptions": []
+            },
+            {
+                "id": "206041",
+                "image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/green-transparent-gunmetal-blue-full-rim-square-lenskart-air-signia-la-e15305-c3-eyeglasses_g_2383_02_11_23.jpg",
+                "image_url_suffix": "/l/i/green-transparent-gunmetal-blue-full-rim-square-lenskart-air-signia-la-e15305-c3-eyeglasses_g_2383_02_11_23.jpg",
+                "imageUrls": [],
+                "product_url": "https://www.lenskart.com/lenskart-air-la-e15305-c3-eyeglasses.html",
+                "color": " #D9E7E2",
+                "size": "Medium",
+                "width": "137 mm",
+                "brand_name": "Lenskart Air",
+                "brand_name_en": "Lenskart Air",
+                "brand_logo": "https://static.lenskart.com/media/wysiwyg/blanco/images/air-logo-Hi.jpg",
+                "model_name": "LA E15305",
+                "prices": [
+                    {
+                        "name": "Market Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    },
+                    {
+                        "name": "Lenskart Price",
+                        "currency_code": "INR",
+                        "price": 2000
+                    }
+                ],
+                "is_tbyb": false,
+                "tags": "Float Pop 2.0",
+                "color_options": [
+                    {
+                        "id": "206041",
+                        "product_url": "https://www.lenskart.com/lenskart-air-la-e15305-c3-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/green-transparent-gunmetal-blue-full-rim-square-lenskart-air-signia-la-e15305-c3-eyeglasses_g_2383_02_11_23.jpg"
+                        ],
+                        "brand_name": "Lenskart Air",
+                        "model_name": "LA E15305",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": " #D9E7E2",
+                        "colorId": 17473,
+                        "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/206041/android/sku_206041.glb",
+                        "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/206041/ios/sku_206041.scn",
+                        "size": "Medium",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/206041_bubble.png",
+                        "frameColor": "Transparent Green",
+                        "title": "Lenskart Air"
+                    },
+                    {
+                        "id": "215441",
+                        "product_url": "https://www.lenskart.com/lenskart-air-la-e15305-c4-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/green-gold-green-full-rim-square-lenskart-air-fusion-la-e15305-c4-eyeglasses_img_4708_22_02_2024.jpg"
+                        ],
+                        "brand_name": "Lenskart Air",
+                        "model_name": "LA E15305",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#00ff00",
+                        "colorId": 15688,
+                        "size": "Medium",
+                        "frameColor": "Green",
+                        "title": "Lenskart Air",
+                        "gradient": {
+                            "label": "with FREE BLU Screen Lenses",
+                            "startColor": "#E6E6EC",
+                            "endColor": "#FFFFFF"
+                        }
+                    },
+                    {
+                        "id": "206039",
+                        "product_url": "https://www.lenskart.com/lenskart-air-la-e15305-c1-eyeglasses.html",
+                        "image_urls": [
+                            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/sky-blue-transparent-silver-full-rim-square-lenskart-air-signia-la-e15305-c1-eyeglasses_g_2453_02_11_23.jpg"
+                        ],
+                        "brand_name": "Lenskart Air",
+                        "model_name": "LA E15305",
+                        "prices": [
+                            {
+                                "name": "Market Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Lenskart Price",
+                                "currency_code": "INR",
+                                "price": 2000
+                            }
+                        ],
+                        "color": "#ADD8E6",
+                        "colorId": 19280,
+                        "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/206039/android/sku_206039.glb",
+                        "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/206039/ios/sku_206039.scn",
+                        "size": "Medium",
+                        "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/206039_bubble.png",
+                        "frameColor": "Light Blue",
+                        "title": "Lenskart Air",
+                        "gradient": {
+                            "label": "with FREE BLU Screen Lenses",
+                            "startColor": "#E6E6EC",
+                            "endColor": "#FFFFFF"
+                        }
+                    }
+                ],
+                "totalColorAvailable": 3,
+                "is_ditto": true,
+                "sku": "eye:lenskart-air-la-e15305-c3-eyeglasses",
+                "hover_image_url": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/green-transparent-gunmetal-blue-full-rim-square-lenskart-air-signia-la-e15305-c3-eyeglasses_g_2382_02_11_23.jpg",
+                "classification": "eyeframe",
+                "specifications": [],
+                "wishlistCount": 0,
+                "purchaseCount": 19865,
+                "avgRating": 4.35,
+                "totalNoOfRatings": "8",
+                "hashtagList": [
+                    {
+                        "name": "Medium",
+                        "id": 11341,
+                        "property": "frame_size_id"
+                    },
+                    {
+                        "name": "Square",
+                        "id": 19404,
+                        "property": "frame_shape_id"
+                    },
+                    {
+                        "name": "Lenskart Air",
+                        "id": 22563,
+                        "property": "brandname_id"
+                    },
+                    {
+                        "name": "Full Rim",
+                        "id": 11370,
+                        "property": "frametype_id"
+                    }
+                ],
+                "offerName": "BUY1500",
+                "cmsLinkAndroid": "https://www.lenskart.com/cms-frame-size",
+                "cmsLinkIos": "https://www.lenskart.com/cms-frame-size-ios",
+                "arModelAndroidUrl": "https://lookr-static.lenskart.com/frameassets/206041/android/sku_206041.glb",
+                "arModelIOSUrl": "https://lookr-static.lenskart.com/frameassets/206041/ios/sku_206041.scn",
+                "arModelOriginalUrl": "https://lookr-static.lenskart.com/frameassets/206041/orignal/sku_206041.glb",
+                "qty": 2850,
+                "frameColorImage": "https://ds-static.lenskart.com/product_color_bubble_images/206041_bubble.png",
+                "subCollection": "Float Pop 2.0",
+                "subCollectionId": 26381,
+                "relatedItems": [],
+                "isCygnusEnabled": true,
+                "isCashbackApplicable": false,
+                "searchProductName": "Green Transparent Full Rim Square Eyeglasses",
+                "prescriptionType": [],
+                "arProductImageUrl": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/i/green-transparent-gunmetal-blue-full-rim-square-lenskart-air-signia-la-e15305-c3-eyeglasses_g_2383_02_11_23.jpg",
+                "showCartCta": false,
+                "sizeOptions": []
+            }
+        ],
+        "num_of_products": 1214,
+        "is_ditto_enabled": true,
+        "seo_title": "Buy Vincent Chase Eyeglasses Online at Best Prices - Lenskart",
+        "seo_meta_keywords": "",
+        "seo_meta_description": "",
+        "seo_meta_canonical": "",
+        "seo_meta_alternate": "",
+        "display": {
+            "android": "grid"
+        },
+        "description": "",
+        "categoryType": "Eyeglasses",
+        "subCategories": "Eyeglasses-Marketing",
+        "category_power_urls": [],
+        "cat_img_link": "https://static1.lenskart.com/media/desktop/img/2024/jun/bluscreen/WEB%20eyeD%20%284%29.jpg",
+        "msite_banner_link": "",
+        "breadcrumb": [
+            {
+                "label": "Eyewear",
+                "link": "www.lenskart.com"
+            },
+            {
+                "label": "Eyeglasses",
+                "link": "eyeglasses.html"
+            },
+            {
+                "label": "Marketing",
+                "link": "eyeglasses/marketing.html"
+            },
+            {
+                "label": "Vincent Chase Eyeglasses"
+            }
+        ],
+        "urlKey": "vc-air-bestseller-eyeglasses",
+        "urlPath": "eyeglasses/marketing/vc-air-bestseller-eyeglasses.html",
+        "category_offer_name": "",
+        "ageGroup": "adult",
+        "categorySubtype": "",
+        "personalisationApplied": false,
+        "parentHashtagList": [],
+        "alternate": {},
+        "is_frame_size_available": true,
+        "inlineFilter": {
+            "ids": [
+                45,
+                132,
+                162
+            ],
+            "interval": 4
+        }
+    },
+    "status": 200,
+    "traceId": "0991719299350002"
+}

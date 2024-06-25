@@ -2,7 +2,7 @@ import React from "react";
 
 const TopLink = () => {
   return (
-    <div className="flex justify-between py-3 lg:px-12 text-[11px] font-medium flex-wrap">
+    <div className="flex justify-between py-3 lg:px-8 text-[#000042] text-[11px] font-medium flex-wrap">
       <div>
         <a className=" px-2 cursor-pointer">Do More, Be More</a>
         <a className="px-2 border-l border-[#000042] cursor-pointer">Tryin3D</a>
