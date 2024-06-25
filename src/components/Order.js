@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import CloseOutlinedIcon from "@mui/icons-material/CloseOutlined";
 
-const TrackOrder = () => {
+const Order = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
 
   const openModal = () => setIsModalOpen(true);
@@ -99,4 +99,4 @@ const Modal = ({ show, onClose }) => {
   );
 };
 
-export default TrackOrder;
+export default Order;

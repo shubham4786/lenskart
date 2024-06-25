@@ -6,7 +6,7 @@ import ShoppingBagOutlinedIcon from "@mui/icons-material/ShoppingBagOutlined";
 import Wishlist from "./Wishlist";
 import SignIn from "./SignIn";
 import SignUp from "./SignUp";
-import TrackOrder from "./trackOrder";
+import Order from "./Order";
 
 const NavBar = () => {
   return (
@@ -26,11 +26,7 @@ const NavBar = () => {
       </div>
       <SearchAndAdd />
       <div className="flex items-center flex-wrap">
-        <TrackOrder />
-        {/* <div className="px-4">
-          <span className=" text-sm font-medium">Track Order</span>
-        </div> */}
-
+        <Order />
         <div className="px-4">
           <SignIn />
           <span className="px-1 text-sm font-medium">&</span>
