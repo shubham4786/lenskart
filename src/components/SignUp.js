@@ -1,18 +1,19 @@
 "use client";
 import React, { useEffect, useState } from "react";
 import CloseOutlinedIcon from "@mui/icons-material/CloseOutlined";
+import { useUserContext } from "@/app/theme-provider";
 
 const SignUp = () => {
-  const [isModalOpen, setIsModalOpen] = useState(false);
+  const { isSignUpModalOpen, setIsSignUpModalOpen } = useUserContext();
 
-  const openModal = () => setIsModalOpen(true);
-  const closeModal = () => setIsModalOpen(false);
+  const openModal = () => setIsSignUpModalOpen(true);
+  const closeModal = () => setIsSignUpModalOpen(false);
   return (
     <>
       <span className=" text-sm font-medium cursor-pointer" onClick={openModal}>
         Sign Up
       </span>
-      <Modal show={isModalOpen} onClose={closeModal} />
+      <Modal show={isSignUpModalOpen} onClose={closeModal} />
     </>
   );
 };
@@ -21,6 +22,7 @@ const Modal = ({ show, onClose }) => {
   const [isChecked, setIsChecked] = useState(true);
   const [isDisabled, setIsDisabled] = useState(false);
   const [referral, setReferral] = useState(false);
+  const { setIsSignUpModalOpen, setIsSignInModalOpen } = useUserContext();
   const [user, setUser] = useState({
     fName: "",
     lName: "",
@@ -48,6 +50,12 @@ const Modal = ({ show, onClose }) => {
   }, [user]);
 
   const handleSubmit = () => {};
+
+  const openSignIn = () => {
+    setIsSignUpModalOpen(false);
+    setIsSignInModalOpen(true);
+  };
+
   return (
     <div
       className={`fixed inset-0 flex items-center justify-center ${
@@ -174,7 +182,10 @@ const Modal = ({ show, onClose }) => {
 
           <div className="py-2 text-xs text-[#000042] justify-center flex">
             Have an account?
-            <span className=" font-semibold underline cursor-pointer pl-1">
+            <span
+              onClick={openSignIn}
+              className=" font-semibold underline cursor-pointer pl-1"
+            >
               Sign In
             </span>
           </div>

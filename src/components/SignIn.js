@@ -1,19 +1,20 @@
 "use client";
 import React, { useState } from "react";
 import CloseOutlinedIcon from "@mui/icons-material/CloseOutlined";
+import { useUserContext } from "@/app/theme-provider";
 
 const SignIn = () => {
-  const [isModalOpen, setIsModalOpen] = useState(false);
+  const { isSignInModalOpen, setIsSignInModalOpen } = useUserContext();
 
-  const openModal = () => setIsModalOpen(true);
-  const closeModal = () => setIsModalOpen(false);
+  const openModal = () => setIsSignInModalOpen(true);
+  const closeModal = () => setIsSignInModalOpen(false);
   return (
     <>
       <span className=" text-sm font-medium cursor-pointer" onClick={openModal}>
         Sign In
       </span>
 
-      <Modal show={isModalOpen} onClose={closeModal} />
+      <Modal show={isSignInModalOpen} onClose={closeModal} />
     </>
   );
 };
@@ -21,9 +22,15 @@ const SignIn = () => {
 const Modal = ({ show, onClose }) => {
   const [isChecked, setIsChecked] = useState(true);
   const [user, setUser] = useState("");
+  const { setIsSignUpModalOpen, setIsSignInModalOpen } = useUserContext();
 
   const handleCheckboxChange = () => {
     setIsChecked(!isChecked);
+  };
+
+  const openSignUp = () => {
+    setIsSignInModalOpen(false);
+    setIsSignUpModalOpen(true);
   };
   return (
     <div
@@ -89,7 +96,10 @@ const Modal = ({ show, onClose }) => {
 
           <div className="py-4 text-sm text-[#000042]">
             New Member?{" "}
-            <span className=" font-semibold underline cursor-pointer">
+            <span
+              onClick={openSignUp}
+              className=" font-semibold underline cursor-pointer"
+            >
               Create an Account
             </span>
           </div>
