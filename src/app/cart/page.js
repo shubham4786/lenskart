@@ -2,10 +2,10 @@
 import React from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { useUserContext } from "../theme-provider";
+import { UseUserContext } from "../theme-provider";
 
 const page = () => {
-  const { cart } = useUserContext();
+  const { cart } = UseUserContext();
   console.log("cart", cart);
   return (
     <div>

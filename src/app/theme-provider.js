@@ -27,6 +27,6 @@ export default function ThemeProvider({ children }) {
   );
 }
 
-export function useUserContext() {
+export function UseUserContext() {
   return useContext(ThemeContext);
 }

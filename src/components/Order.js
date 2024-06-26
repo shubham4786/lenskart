@@ -1,10 +1,10 @@
 "use client";
 import React, { useState } from "react";
 import CloseOutlinedIcon from "@mui/icons-material/CloseOutlined";
-import { useUserContext } from "@/app/theme-provider";
+import { UseUserContext } from "@/app/theme-provider";
 
 const Order = () => {
-  const { isSignInModalOpen, setIsSignInModalOpen } = useUserContext();
+  const { isSignInModalOpen, setIsSignInModalOpen } = UseUserContext();
 
   const openModal = () => setIsSignInModalOpen(true);
   const closeModal = () => setIsSignInModalOpen(false);
@@ -22,7 +22,7 @@ const Order = () => {
 const Modal = ({ show, onClose }) => {
   const [isChecked, setIsChecked] = useState(true);
   const [user, setUser] = useState("");
-  const { setIsSignUpModalOpen, setIsSignInModalOpen } = useUserContext();
+  const { setIsSignUpModalOpen, setIsSignInModalOpen } = UseUserContext();
 
   const handleCheckboxChange = () => {
     setIsChecked(!isChecked);

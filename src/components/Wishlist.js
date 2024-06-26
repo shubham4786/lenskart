@@ -2,14 +2,14 @@
 import React, { useState } from "react";
 import FavoriteBorderOutlinedIcon from "@mui/icons-material/FavoriteBorderOutlined";
 import CloseOutlinedIcon from "@mui/icons-material/CloseOutlined";
-import { useUserContext } from "@/app/theme-provider";
+import { UseUserContext } from "@/app/theme-provider";
 import Image from "next/image";
 import data from "./data.json";
 import Badge from "@mui/material/Badge";
 
 const Wishlist = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
-  const { wishlist } = useUserContext();
+  const { wishlist } = UseUserContext();
   const openModal = () => setIsModalOpen(true);
   const closeModal = () => setIsModalOpen(false);
 
@@ -35,7 +35,7 @@ const Wishlist = () => {
 };
 
 const Modal = ({ show, onClose }) => {
-  const { wishlist, setWishlist } = useUserContext();
+  const { wishlist, setWishlist } = UseUserContext();
 
   const filterData = (data, ids) => {
     return data.filter((item) => ids.includes(item.id));

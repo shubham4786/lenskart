@@ -1,10 +1,10 @@
 "use client";
 import React, { useEffect, useState } from "react";
 import CloseOutlinedIcon from "@mui/icons-material/CloseOutlined";
-import { useUserContext } from "@/app/theme-provider";
+import { UseUserContext } from "@/app/theme-provider";
 
 const SignUp = () => {
-  const { isSignUpModalOpen, setIsSignUpModalOpen } = useUserContext();
+  const { isSignUpModalOpen, setIsSignUpModalOpen } = UseUserContext();
 
   const openModal = () => setIsSignUpModalOpen(true);
   const closeModal = () => setIsSignUpModalOpen(false);
@@ -22,7 +22,7 @@ const Modal = ({ show, onClose }) => {
   const [isChecked, setIsChecked] = useState(true);
   const [isDisabled, setIsDisabled] = useState(false);
   const [referral, setReferral] = useState(false);
-  const { setIsSignUpModalOpen, setIsSignInModalOpen } = useUserContext();
+  const { setIsSignUpModalOpen, setIsSignInModalOpen } = UseUserContext();
   const [user, setUser] = useState({
     fName: "",
     lName: "",

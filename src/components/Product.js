@@ -3,10 +3,10 @@ import Image from "next/image";
 import React from "react";
 import FavoriteBorderOutlinedIcon from "@mui/icons-material/FavoriteBorderOutlined";
 import data from "./data.json";
-import { useUserContext } from "@/app/theme-provider";
+import { UseUserContext } from "@/app/theme-provider";
 
 const Product = () => {
-  const { wishlist, setWishlist, cart, setCart } = useUserContext();
+  const { wishlist, setWishlist, cart, setCart } = UseUserContext();
 
   const toggleWishlist = (id) => {
     if (wishlist.includes(id)) {
