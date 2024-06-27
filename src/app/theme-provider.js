@@ -7,6 +7,7 @@ export const ThemeContext = createContext({});
 export default function ThemeProvider({ children }) {
   const [wishlist, setWishlist] = useState([]);
   const [cart, setCart] = useState([]);
+  const [cOrder, setCOrder] = useState();
   const [isSignInModalOpen, setIsSignInModalOpen] = useState(false);
   const [isSignUpModalOpen, setIsSignUpModalOpen] = useState(false);
   return (
@@ -20,6 +21,8 @@ export default function ThemeProvider({ children }) {
         setIsSignInModalOpen,
         isSignUpModalOpen,
         setIsSignUpModalOpen,
+        cOrder,
+        setCOrder,
       }}
     >
       {children}

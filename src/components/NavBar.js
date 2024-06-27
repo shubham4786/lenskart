@@ -26,7 +26,11 @@ const NavBar = () => {
       </div>
       <SearchAndAdd />
       <div className="flex items-center flex-wrap">
-        <Order />
+        <Link href="/track-order" className="px-4">
+          <span className=" text-sm font-medium cursor-pointer">
+            Track Order
+          </span>
+        </Link>
         <div className="px-4">
           <SignIn />
           <span className="px-1 text-sm font-medium">&</span>

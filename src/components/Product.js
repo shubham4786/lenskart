@@ -18,7 +18,33 @@ const Product = () => {
   };
 
   const addToCart = (id) => {
-    setCart([...cart, id]);
+    const existingCartItem = cart.find((item) => item.id === id);
+    if (existingCartItem) {
+      const updatedCart = cart.map((item) =>
+        item.id === id ? { ...item, quantity: item.quantity + 1 } : item
+      );
+      setCart(updatedCart);
+    } else {
+      setCart([...cart, { id, quantity: 1 }]);
+    }
+  };
+
+  const decreaseQuantity = (id) => {
+    const updatedCart = cart
+      .map((item) =>
+        item.id === id ? { ...item, quantity: item.quantity - 1 } : item
+      )
+      .filter((item) => item.quantity > 0);
+    setCart(updatedCart);
+  };
+
+  const isInCart = (id) => {
+    return cart.some((item) => item.id === id);
+  };
+
+  const getCartQuantity = (id) => {
+    const item = cart.find((item) => item.id === id);
+    return item ? item.quantity : 0;
   };
 
   return (
@@ -48,12 +74,30 @@ const Product = () => {
               <FavoriteBorderOutlinedIcon className="" />
               <span>Wishlist</span>
             </div>
-            <div
-              onClick={() => addToCart(item.id)}
-              className="border border-slate-400 rounded-3xl px-2 py-1 cursor-pointer"
-            >
-              Add To Cart
-            </div>
+            {isInCart(item.id) ? (
+              <div className="flex items-center">
+                <button
+                  onClick={() => decreaseQuantity(item.id)}
+                  className="border border-slate-400 rounded-3xl px-2 py-1 cursor-pointer"
+                >
+                  -
+                </button>
+                <span className="mx-2">{getCartQuantity(item.id)}</span>
+                <button
+                  onClick={() => addToCart(item.id)}
+                  className="border border-slate-400 rounded-3xl px-2 py-1 cursor-pointer"
+                >
+                  +
+                </button>
+              </div>
+            ) : (
+              <div
+                onClick={() => addToCart(item.id)}
+                className="border border-slate-400 rounded-3xl px-2 py-1 cursor-pointer"
+              >
+                Add To Cart
+              </div>
+            )}
           </div>
         </div>
       ))}
